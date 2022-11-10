@@ -4,11 +4,35 @@ body{
 }
 
 h1{
-  color: #f3f3f3;
-  font-size: 75px;
+  color: white;
+  font-size: 60px;
   font-family: 'Bungee Hairline', cursive;
   font-weight: bold;
   text-align: center;
+}
+
+h2{
+  color: #f7f7f7;
+  font-size: 50px;
+  font-family: 'Bungee Hairline', cursive;
+  font-weight: normal;
+  text-align: center;
+}
+
+p{
+  color: #f3f3f3;
+  font-size: 35px;
+  font-family: 'Bungee Hairline', cursive;
+  font-weight: normal;
+  text-align: center;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+  border: 2px dotted;
+  border-color: #99ebff;
+  padding: 2px;
 }
 
 #main-navbar{
@@ -42,23 +66,27 @@ h1{
 }
 
 #navbar-container ul li a:hover{
-	background-color: #000;
+  background-color: #000;
 }
 
 #navbar-container ul li a:link{
-	text-decoration: none;
+  text-decoration: none;
 }
 
 #onpage{
- text-decoration: underline overline; 
+  text-decoration: underline overline; 
 }
 
-img{
-  width: 400px;
-  height: 400px;
-  border: 2px dotted;
-  border-color: #99ebff;
-  padding: 2px;
+#resume-header{
+  position: relative;
+  width: 100%;
+  text-align: center;
 }
 
+#resume-content{
+  position: relative;
+  width: 75%;
+  text-align: left;
+  float: left;
+}
 
