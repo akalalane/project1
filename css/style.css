@@ -33,6 +33,7 @@ img{
   border: 5px solid;
   border-color: #000;
   padding: 2px;
+  float: right;
 }
 
 #main-navbar{
