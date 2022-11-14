@@ -49,7 +49,7 @@ ul{
 
 ul li {
   padding: 10px;
-  background: linear-gradient(to top right, #9d9dfc, #c8c8ff)
+  background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
 #main-navbar{
