@@ -43,7 +43,7 @@ ul{
   position: relative;
 }
 
-ul li a {
+ul li{
   text-color: #fff;
 }
 
