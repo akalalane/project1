@@ -36,6 +36,13 @@ img{
   margin-left: 20px;
 }
 
+ul{
+  list-style-type: circle;
+  text-color: #fff;
+  font-family: serif;
+  font-size: 18px;
+}
+
 #main-navbar{
   background-color: #f071bf;
   position: relative;
