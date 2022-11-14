@@ -37,7 +37,7 @@ img{
 }
 
 ul{
-  list-style-type: circle;
+  list-style-type: square;
   font-family: serif;
   font-size: 18px;
   position: relative;
@@ -104,8 +104,6 @@ ul li{
   overflow: hidden;
   display: inline-block;
 }
-
-
 
 #resume-content{
   position: relative;
