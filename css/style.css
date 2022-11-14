@@ -38,9 +38,13 @@ img{
 
 ul{
   list-style-type: circle;
-  text-color: #f0f0f0;
   font-family: serif;
   font-size: 18px;
+  position: relative;
+}
+
+ul li a {
+  text-color: #fff;
 }
 
 #main-navbar{
