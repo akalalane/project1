@@ -72,6 +72,12 @@ ul li {
   background: none;
 }
 
+#onpage{
+  text-decoration: underline; 
+  text-decoration-color: #36c240;
+  background: linear-gradient(to top, #ab9dfc, #ff9fff55);
+}
+
 #navbar-container ul li {
   float: left;
   display: block;
@@ -90,12 +96,6 @@ ul li {
 
 #navbar-container ul li a:link{
   text-decoration: none;
-}
-
-#onpage{
-  text-decoration: underline; 
-  text-decoration-color: #36c240;
-  background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
 #resume-header{
