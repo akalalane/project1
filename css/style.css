@@ -49,7 +49,6 @@ ul{
 
 ul li {
   padding: 10px;
-  background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
 #main-navbar{
@@ -69,7 +68,6 @@ ul li {
   list-style-type: none;
   overflow: hidden;
   display: inline-block;
-  background: none;
 }
 
 #onpage{
@@ -112,6 +110,10 @@ ul li {
   display: inline-block;
 }
 
+#resume-header ul li {
+  background: linear-gradient(to top, #ab9dfc, #ff9fff55);
+}
+
 #resume-content{
   position: relative;
   width: 75%;
@@ -119,3 +121,6 @@ ul li {
   float: center;
 }
 
+#resume-content ul li {
+  background: linear-gradient(to top, #ab9dfc, #ff9fff55);
+}
