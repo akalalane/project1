@@ -38,7 +38,6 @@ img{
 
 ul{
   padding: 25px;
-  background-color: #9d9dfc;
   list-style-type: none;
   font-family: serif;
   font-size: 18px;
@@ -79,7 +78,6 @@ ul li {
 #navbar-container ul li {
   float: left;
   display: block;
-  background: none;
 }
 
 #navbar-container ul li a {
@@ -105,9 +103,9 @@ ul li {
 #resume-header ul {
   padding: 5px;
   margin: 0;
-  list-style-type: none;
   overflow: hidden;
   display: inline-block;
+  background: #9d9dfc;
 }
 
 #resume-header ul li {
@@ -119,6 +117,10 @@ ul li {
   width: 75%;
   text-align: left;
   float: center;
+}
+
+#resume-content ul {
+  background: #9d9dfc;
 }
 
 #resume-content ul li {
