@@ -39,7 +39,7 @@ img{
 ul{
   padding: 25px;
   background-color: #9d9dfc;
-  list-style-type: circle;
+  list-style-type: none;
   font-family: serif;
   font-size: 18px;
   position: relative;
@@ -75,6 +75,7 @@ ul li {
 #navbar-container ul li {
   float: left;
   display: block;
+  background: none;
 }
 
 #navbar-container ul li a {
@@ -94,6 +95,7 @@ ul li {
 #onpage{
   text-decoration: underline; 
   text-decoration-color: #36c240;
+  background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
 #resume-header{
