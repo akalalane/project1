@@ -96,12 +96,12 @@ ul li {
 
 #resume-header{
   position: relative;
-  width: 100%;
+  width: 80%;
+  padding: 10%;
   text-align: center;
 }
 
 #resume-header ul {
-  padding: 10%;
   margin: 0;
   overflow: hidden;
   display: inline-block;
