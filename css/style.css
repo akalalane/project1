@@ -139,7 +139,8 @@ ul li {
 }
 
 #deadbirds-container img {
-  
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #livebird-container {
@@ -149,7 +150,8 @@ ul li {
 }
 
 #livebird-container img {
-  
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #rescue-link-container {
@@ -191,9 +193,10 @@ ul li {
 }
 
 #crochet-tutorial-container img {
-    padding-bottom: 20%;
+    display: block;
     border-color: #9d9dfc;
-    margin: 10%;
-    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
 }
 
