@@ -124,7 +124,7 @@ ul li {
 }
 
 #wildlife-body {
-  width: 960px;
+  max-width: 960px;
 }
 
 #wildlife-description-container {
