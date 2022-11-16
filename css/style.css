@@ -115,11 +115,11 @@ div.resume-content {
   padding: 15%;
 }
 
-#resume-content ul {
+div.resume-content ul {
   background: #9d9dfc;
 }
 
-#resume-content ul li {
+div.resume-content ul li {
   background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
