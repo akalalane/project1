@@ -125,7 +125,6 @@ ul li {
 
 #wildlife-navbar {
   background-color: #f071bf;
-  position: relative;
   width: 960px;
   text-align: center;
 }
@@ -191,7 +190,7 @@ ul li {
   margin-left: auto;
   margin-right: auto;
   padding: 5%;
-  background: linear-gradient(to top right, #adad85, #f071bf);
+  background: linear-gradient(to top right, #b8b894, #9d9dfc);
 }
 
 #crochet-reasons-container ul {
@@ -209,7 +208,7 @@ ul li {
   margin-left: auto;
   margin-right: auto;
   padding: 5%;
-  background: linear-gradient(to top right, #b8b894, #9d9dfc);
+  background: linear-gradient(to top right, #adad85, #f071bf);
 }
 
 
