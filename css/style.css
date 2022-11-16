@@ -131,6 +131,7 @@ ul li {
   width: 840px;
   margin-left: auto;
   margin-right: auto;
+  padding: 60px;
   background: linear-gradient(to bottom left, #f071bf, cyan);
 }
 
@@ -138,6 +139,7 @@ ul li {
   width: 840px;
   margin-left: auto;
   margin-right: auto;
+  padding: 60px;
   background: linear-gradient(to top right, #b31943, #9d9dfc);
 }
 
@@ -151,6 +153,7 @@ ul li {
   width: 840px;
   margin-left: auto;
   margin-right: auto;
+  padding: 60px;
   background: linear-gradient(to top right, #a2e623, #9d9dfc);
 }
 
@@ -164,11 +167,12 @@ ul li {
   width: 840px;
   margin-left: auto;
   margin-right: auto;
+  padding: 60px;
   background: linear-gradient(to bottom left, #f071bf, cyan);
 }
 
 #rescue-link-container a {
-  color: #a2e623;
+  color: #660066;
   font-size: 35px;
   font-family: 'Bungee Hairline', cursive;
   font-weight: bold;
@@ -179,6 +183,7 @@ ul li {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  padding: 10%;
   background: #adad85;
 }
 
@@ -197,12 +202,10 @@ ul li {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  padding: 10%;
   background: #b8b894;
 }
 
-#crochet-tutorial-container p {
-  text-align: left;
-}
 
 #crochet-tutorial-container img {
     display: block;
