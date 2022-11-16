@@ -123,6 +123,10 @@ ul li {
   background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
+#wildlife-body {
+  width: 960px;
+}
+
 #wildlife-description-container {
   width: 840px;
   padding: 60px;
