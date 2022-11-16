@@ -108,7 +108,7 @@ ul li {
   background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
-#resume-content {
+div.resume-content {
   position: relative;
   width: 70%;
   text-align: left;
