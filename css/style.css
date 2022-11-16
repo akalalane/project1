@@ -161,11 +161,14 @@ ul li {
 }
 
 #crochet-reasons-container ul {
-  
+  margin: 0;
+  overflow: hidden;
+  display: inline-block;
+  background: #f071bf;
 }
 
 #crochet-reasons-container ul li {
-  
+  background: linear-gradient(to top, #000, #f071bf);
 }
 
 #crochet-tutorial-container {
