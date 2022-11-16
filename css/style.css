@@ -126,6 +126,8 @@ ul li {
 #wildlife-navbar {
   background-color: #f071bf;
   width: 960px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }
 
