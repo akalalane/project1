@@ -123,6 +123,13 @@ ul li {
   background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
+#wildlife-navbar {
+  background-color: #f071bf;
+  position: relative;
+  width: 960px;
+  text-align: center;
+}
+
 #wildlife-body {
   background: none;
 }
@@ -183,13 +190,12 @@ ul li {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  padding: 10%;
-  background: #adad85;
+  padding: 5%;
+  background: linear-gradient(to top right, #adad85, #f071bf);
 }
 
 #crochet-reasons-container ul {
   margin: 0;
-  overflow: hidden;
   display: inline-block;
   background: #f071bf;
 }
@@ -202,8 +208,8 @@ ul li {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  padding: 10%;
-  background: #b8b894;
+  padding: 5%;
+  background: linear-gradient(to top right, #b8b894, #9d9dfc);
 }
 
 
