@@ -1,6 +1,6 @@
 
 body {
-  background-image: linear-gradient(to bottom left, #f071bf, cyan);
+  background: linear-gradient(to bottom left, #f071bf, cyan);
 }
 
 h1 {
@@ -158,7 +158,11 @@ ul li {
 }
 
 #rescue-link-container a {
-  
+  color: #6fc1d1;
+  font-size: 35px;
+  font-family: 'Bungee Hairline', cursive;
+  font-weight: bold;
+  text-align: center;
 }
 
 #crochet-reasons-container {
