@@ -108,18 +108,18 @@ ul li {
   background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
-div.resume-content {
+.resume-content {
   position: relative;
   width: 70%;
   text-align: left;
   padding: 15%;
 }
 
-div.resume-content ul {
+.resume-content ul {
   background: #9d9dfc;
 }
 
-div.resume-content ul li {
+.resume-content ul li {
   background: linear-gradient(to top, #ab9dfc, #ff9fff55);
 }
 
