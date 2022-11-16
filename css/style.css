@@ -141,6 +141,7 @@ ul li {
 #deadbirds-container img {
   margin-left: auto;
   margin-right: auto;
+  border-color: #b31943;
 }
 
 #livebird-container {
@@ -152,6 +153,7 @@ ul li {
 #livebird-container img {
   margin-left: auto;
   margin-right: auto;
+  border-color: #a2e623;
 }
 
 #rescue-link-container {
