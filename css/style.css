@@ -131,6 +131,7 @@ ul li {
 #deadbirds-container {
   width: 840px;
   padding: 60px;
+  background: linear-gradient(to top right, #b31943, #9d9dfc);
 }
 
 #deadbirds-container img {
@@ -140,6 +141,7 @@ ul li {
 #livebird-container {
   width: 840px;
   padding: 60px;
+  background: linear-gradient(to top right, #a2e623, #9d9dfc);
 }
 
 #livebird-container img {
@@ -181,8 +183,9 @@ ul li {
 }
 
 #crochet-tutorial-container img {
-  padding-bottom: 20%;
-  border-color: #9d9dfc;
-  margins: auto;
+    padding-bottom: 20%;
+    border: #9d9dfc;
+    margin: 10%;
+    width: 80%;
 }
 
