@@ -124,17 +124,19 @@ ul li {
 }
 
 #wildlife-body {
-  max-width: 960px;
+  background: none;
 }
 
 #wildlife-description-container {
   width: 840px;
-  padding: 60px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #deadbirds-container {
   width: 840px;
-  padding: 60px;
+  margin-left: auto;
+  margin-right: auto;
   background: linear-gradient(to top right, #b31943, #9d9dfc);
 }
 
@@ -146,7 +148,8 @@ ul li {
 
 #livebird-container {
   width: 840px;
-  padding: 60px;
+  margin-left: auto;
+  margin-right: auto;
   background: linear-gradient(to top right, #a2e623, #9d9dfc);
 }
 
@@ -171,7 +174,8 @@ ul li {
 
 #crochet-reasons-container {
   width: 80%;
-  padding: 10%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #crochet-reasons-container ul {
@@ -187,7 +191,8 @@ ul li {
 
 #crochet-tutorial-container {
   width: 80%;
-  padding: 10%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #crochet-tutorial-container p {
@@ -195,6 +200,14 @@ ul li {
 }
 
 #crochet-tutorial-container img {
+    display: block;
+    border-color: #9d9dfc;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+}
+
+#crochet-tutorial-container iframe {
     display: block;
     border-color: #9d9dfc;
     margin-left: auto;
