@@ -131,6 +131,7 @@ ul li {
   width: 840px;
   margin-left: auto;
   margin-right: auto;
+  background: linear-gradient(to bottom left, #f071bf, cyan);
 }
 
 #deadbirds-container {
@@ -161,7 +162,9 @@ ul li {
 
 #rescue-link-container {
   width: 840px;
-  padding: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  background: linear-gradient(to bottom left, #f071bf, cyan);
 }
 
 #rescue-link-container a {
@@ -176,6 +179,7 @@ ul li {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  background: #adad85;
 }
 
 #crochet-reasons-container ul {
@@ -193,6 +197,7 @@ ul li {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+  background: #b8b894;
 }
 
 #crochet-tutorial-container p {
