@@ -48,8 +48,8 @@ ul li {
 }
 
 #main-navbar {
-  background-color: #f071bf;
-  position: fixed;
+  background: #f071bf;
+  position: relative;
   width: 100%;
   text-align: center;
 }
