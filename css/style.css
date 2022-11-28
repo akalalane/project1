@@ -55,7 +55,7 @@ ul li {
 }
 
 #navbar-container {
-  position: relative;
+  position: fixed;
 }
 
 #navbar-container ul {
@@ -63,7 +63,7 @@ ul li {
   margin: 0;
   list-style-type: none;
   overflow: hidden;
-  display: inline-flex;
+  display: block;
 }
 
 #onpage {
@@ -129,6 +129,7 @@ div.resume-content ul li {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  position: fixed;
 }
 
 #wildlife-body {
