@@ -52,7 +52,7 @@ ul li {
   position: fixed;
   width: 100%;
   text-align: center;
-  z-index = 5;
+  z-index: 1;
 }
 
 #navbar-container {
@@ -130,6 +130,8 @@ div.resume-content ul li {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  position: fixed;
+  z-index: 1;
 }
 
 #wildlife-body {
