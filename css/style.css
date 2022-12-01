@@ -140,16 +140,12 @@ div.resume-content ul li {
 
 #wildlife-description-container {
   width: 840px;
-  margin-left: auto;
-  margin-right: auto;
   padding: 60px;
   background: linear-gradient(to bottom left, #f071bf, cyan);
 }
 
 #deadbirds-container {
   width: 840px;
-  margin-left: auto;
-  margin-right: auto;
   padding: 60px;
   background: linear-gradient(to top right, #b31943, #9d9dfc);
 }
@@ -162,8 +158,6 @@ div.resume-content ul li {
 
 #livebird-container {
   width: 840px;
-  margin-left: auto;
-  margin-right: auto;
   padding: 60px;
   background: linear-gradient(to top right, #a2e623, #9d9dfc);
 }
@@ -176,8 +170,6 @@ div.resume-content ul li {
 
 #rescue-link-container {
   width: 840px;
-  margin-left: auto;
-  margin-right: auto;
   padding: 60px;
   background: linear-gradient(to bottom left, #f071bf, cyan);
 }
