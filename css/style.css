@@ -224,3 +224,9 @@ div.resume-content ul li {
     margin-right: auto;
     margin-bottom: 10%;
 }
+
+@media screen (max-width: 600px) {
+  #navbar-container ul li {
+  float: none;
+  }
+}
