@@ -4,24 +4,24 @@ body {
 }
 
 h1 {
-  color: #fff;
-  font-size: 60px;
+  color: #666699;
+  font-size: 80px;
   font-family: 'Bungee Hairline', cursive;
   font-weight: bold;
   text-align: center;
 }
 
 h2 {
-  color: #f7f7f7;
-  font-size: 50px;
+  color: #666699;
+  font-size: 70px;
   font-family: 'Bungee Hairline', cursive;
   font-weight: bold;
   text-align: center;
 }
 
 p {
-  color: #f3f3f3;
-  font-size: 35px;
+  color: #666699;
+  font-size: 55px;
   font-family: 'Bungee Hairline', cursive;
   font-weight: bold;
   text-align: center;
@@ -73,7 +73,6 @@ ul li {
 }
 
 #navbar-container ul li {
-  float: left;
   display: block;
 }
 
@@ -225,8 +224,20 @@ div.resume-content ul li {
     margin-bottom: 10%;
 }
 
-@media screen (max-width: 600px) {
+@media screen (min-width: 600px) {
   #navbar-container ul li {
-  float: none;
+    float: left;
+  }
+  h1 {
+    color: #fff;
+    font-size: 60px;
+  }
+  h2 {
+  color: #f7f7f7;
+  font-size: 50px;
+  }
+  p {
+  color: #f3f3f3;
+  font-size: 35px;
   }
 }
