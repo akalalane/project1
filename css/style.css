@@ -224,7 +224,7 @@ div.resume-content ul li {
     margin-bottom: 10%;
 }
 
-@media screen (min-width: 600px) {
+@media (min-width: 600px) {
   #navbar-container ul li {
     float: left;
   }
@@ -242,7 +242,7 @@ div.resume-content ul li {
   }
 }
 
-@media screen (min-width: 992px) {
+@media (min-width: 992px) {
   img {
     width: 800px;
     height: 800px;
