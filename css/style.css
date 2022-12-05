@@ -233,11 +233,24 @@ div.resume-content ul li {
     font-size: 60px;
   }
   h2 {
-  color: #f7f7f7;
-  font-size: 50px;
+    color: #f7f7f7;
+    font-size: 50px;
   }
   p {
-  color: #f3f3f3;
-  font-size: 35px;
+    color: #f3f3f3;
+    font-size: 35px;
   }
 }
+
+@media screen (min-width: 992px) {
+  img {
+    width: 800px;
+    height: 800px;
+    border: 10px solid;
+    padding: 20px;
+  }
+  body {
+    background: linear-gradient(to bottom left, #f071bf, white);
+  }
+}
+
