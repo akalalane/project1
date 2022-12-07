@@ -5,11 +5,8 @@
     <title>Project 3</title>
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bungee+Hairline&family=Josefin+Slab:wght@300&display=swap" rel="stylesheet">
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
-    async defer></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
   </head>
 	
 
@@ -26,6 +23,9 @@
         </div>
       </nav>
     </header>
-    <div id="map"></div>
+    <div id="mapWrapper">
+      <div id="mapCanvas">
+      </div>
+    </div>
   </body>
 </html>
