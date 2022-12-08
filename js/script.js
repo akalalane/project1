@@ -34,6 +34,7 @@ function init() {
   });
   
   google.maps.event.addListener(marker, 'click', function() {
+    marker.setIcon('galapagosTortoise.png');
     marker.setAnimation(google.maps.Animation.BOUNCE);
     infowindow.open(myMap, marker);
   });
