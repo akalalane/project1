@@ -253,6 +253,10 @@ div.resume-content ul li {
     background: linear-gradient(to bottom left, #f071bf, white);
   }
 }
+#mapSpacer {
+ height: 100px;
+ background-color: #00e5b6;
+}
 
 #mapWrapper {
   width: 900px;
