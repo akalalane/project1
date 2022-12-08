@@ -254,3 +254,16 @@ div.resume-content ul li {
   }
 }
 
+#mapWrapper {
+  width: 900px;
+  height: 900px;
+  background-color: #ccf400;
+  margin: 0 auto;
+}
+
+#mapCanvas {
+  width: 700px;
+  height: 700px;
+  background-color: #c6d6e6;
+  margin: 30px auto;
+}
