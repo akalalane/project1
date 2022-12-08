@@ -6,10 +6,10 @@
 //   });
 // }
 function init() {
-  alert('it works');
+  alert('Welcome to my map page! Try clicking on the marker to see what happens!');
   
   var el = document.getElementById('mapCanvas');
-  var myLocation = new google.maps.LatLng(25,-25);
+  var myLocation = new google.maps.LatLng(-0.28415731592554744, -90.42960532128117);
   var mapOptions = {
     center: myLocation,
     zoom: 6,
@@ -25,6 +25,17 @@ function init() {
     position: myLocation,
     map: myMap,
     animation: google.maps.Animation.DROP
+  });
+  
+  var contentString = 'Welcome to the Galapagos Islands!';
+  
+  var infowindow = new google.maps.InfoWindow({
+    content: contentString
+  });
+  
+  google.maps.event.addListener(marker, 'click', function() {
+    marker.setAnimation(google.maps.Animation.BOUNCE);
+    infowindow.open(myMap, marker);
   });
   
 }
