@@ -24,7 +24,8 @@ function init() {
   var marker = new google.maps.Marker({
     position: myLocation,
     map: myMap,
-    animation: google.maps.Animation.DROP
+    animation: google.maps.Animation.DROP,
+    icon: 'galapagosTortoise.png'
   });
   
   var contentString = 'Welcome to the Galapagos Islands!';
